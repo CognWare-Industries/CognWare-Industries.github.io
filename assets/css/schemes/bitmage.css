@@ -1,0 +1,39 @@
+:root {
+  --green: 0,255,0;
+  --black: 0,0,0;
+  --purple: 140,82,255;
+
+  --color-neutral: var(--green);
+  --color-neutral-50: var(--green);
+  --color-neutral-100: var(--green);
+  --color-neutral-200: var(--green);
+  --color-neutral-300: var(--green);
+  --color-neutral-400: var(--green);
+  --color-neutral-500: var(--green);
+  --color-neutral-600: var(--green);
+  --color-neutral-700: var(--purple);
+  --color-neutral-800: var(--black);
+  --color-neutral-900: var(--purple);
+
+  --color-primary-50: var(--green);
+  --color-primary-100: var(--purple);
+  --color-primary-200: var(--green);
+  --color-primary-300: var(--green);
+  --color-primary-400: var(--purple);
+  --color-primary-500: var(--purple);
+  --color-primary-600: var(--purple);
+  --color-primary-700: var(--purple);
+  --color-primary-800: var(--green);
+  --color-primary-900: var(--black);
+
+  --color-secondary-50: var(--purple);
+  --color-secondary-100: var(--purple);
+  --color-secondary-200: var(--purple);
+  --color-secondary-300: var(--purple);
+  --color-secondary-400: var(--purple);
+  --color-secondary-500: var(--purple);
+  --color-secondary-600: var(--purple);
+  --color-secondary-700: var(--green);
+  --color-secondary-800: var(--green);
+  --color-secondary-900: var(--green);
+}

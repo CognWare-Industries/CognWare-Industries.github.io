@@ -1,0 +1,21 @@
+[[main]]
+name = "Agenda"
+pageRef = "Agenda"
+weight = 1
+
+[[main]]
+name = "Blogs"
+pageRef = "posts"
+weight = 1
+
+[[footer]]
+name = "Github"
+pre = "github"
+url = "https://github.com/CognWare-Industries"
+weight = 1
+
+[[footer]]
+name = "Youtube"
+pre = "youtube"
+url = "https://www.youtube.com/@CognWare"
+weight = 1

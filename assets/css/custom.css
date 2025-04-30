@@ -1,0 +1,9 @@
+@font-face {
+    font-family: bitmage;
+    src: url('/fonts/BigBlueTerm437NerdFontMono-Regular.ttf')
+}
+
+html {
+    font-family: bitmage;
+    font-size: 16pt;
+}
