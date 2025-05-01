@@ -9,15 +9,15 @@ title = "CognWare"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  #logo = "img/cognwarebraingear.png"
-  secondaryLogo = "img/Bit-Mage_transparent.webp"
+  #logo = "img/cognware-rgbized.webp"
+  #secondaryLogo = "img/cognware-rgbized.webp"
   description = "Engineering Cognitive Infrastructure"
-  copyright = "© (Bit-Mage)"
+  copyright = "© CognWare Industries"
 
 [params.author]
   name = "CognWare Industries"
   email = "raj@cognware.com"
-  image = "img/cognwarebraingear_transparent.png"
+  image = "img/cognware-rgbized.webp"
   imageQuality = 96
   headline = "Engineering Cognitive Infrastructure"
   bio = "(Bit-Mage)"

@@ -1,9 +1,10 @@
 @font-face {
     font-family: bitmage;
-    src: url('/fonts/BigBlueTerm437NerdFontMono-Regular.ttf')
+    src:url('/fonts/bigblueterm.woff2') format('woff2'),
+        url('/fonts/BigBlueTermPlusNerdFont-Regular.ttf') format('truetype');
 }
 
 html {
     font-family: bitmage;
-    font-size: 16pt;
+    font-size: 18pt;
 }
