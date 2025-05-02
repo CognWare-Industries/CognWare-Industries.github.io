@@ -14,15 +14,15 @@ enableCodeCopy = true
 
 replyByEmail = false
 
-# mainSections = ["section1", "section2"]
+mainSections = ["products", "books"]
 # robots = ""
 
 disableImageOptimization = false
 disableTextInHeader = false
-# backgroundImageWidth = 1200
+backgroundImageWidth = 1200
 
 defaultBackgroundImage = "img/retrofractal_web_optimized.webp" # used as default for background images
-# defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
+defaultFeaturedImage = "img/retrofractal_web_optimized.webp" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
 # smartTOC = true
