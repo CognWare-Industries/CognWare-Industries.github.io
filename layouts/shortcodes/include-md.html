@@ -1,0 +1,5 @@
+{{ $path := .Get "file" | default (.Get 0) }}
+{{ $raw  := readFile $path }}
+{{/* remove leading +++…+++ or ---…--- block */}}
+{{ $clean := replaceRE `(?m)^(\+\+\+|---)[\s\S]*?(\+\+\+|---)\r?\n` "" $raw }}
+{{ $clean | markdownify }}
