@@ -1,12 +1,28 @@
+
 [[main]]
-name = "Agenda"
-pageRef = "Agenda"
+name = "CognWare"
+pageRef = "/"
 weight = 1
 
 [[main]]
-name = "Blogs"
+name = "About"
+pageRef = "About"
+weight = 2
+
+[[main]]
+name = "Posts"
 pageRef = "posts"
-weight = 1
+weight = 3
+
+[[main]]
+name = "Products"
+PageRef = "WIP"
+weight = 4
+
+[[main]]
+name = "Services"
+PageRef = "WIP"
+weight = 4
 
 [[footer]]
 name = "Github"
