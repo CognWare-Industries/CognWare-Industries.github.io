@@ -21,7 +21,7 @@ weight = 4
 
 [[main]]
 name = "Services"
-PageRef = "WIP"
+PageRef = "services"
 weight = 4
 
 [[footer]]
