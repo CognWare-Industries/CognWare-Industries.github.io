@@ -13,4 +13,19 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
 style="text-decoration-line: none !important;" href="#-under-construction" aria-label="Anchor">#&lt;/a>
 &lt;/span>
-&lt;/h1></description></item></channel></rss>
+&lt;/h1></description></item><item><title>Services</title><link>https://cognware.com/services/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>raj@thebitmage.com (CognWare Industries)</author><guid>https://cognware.com/services/</guid><description>&lt;h2 class="relative group">Offerings
+&lt;div id="offerings" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#offerings" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">&lt;a href="https://cognware.com/posts/saas/saas">Serendipity as a Service&lt;/a>
+&lt;div id="serendipity-as-a-service" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#serendipity-as-a-service" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3></description></item></channel></rss>
