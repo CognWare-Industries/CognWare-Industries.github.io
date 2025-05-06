@@ -4159,4 +4159,4 @@
 }@property --tw-content{syntax: "*";
   initial-value: "";
   inherits: false;
-}@font-face{font-family:bitmage;src:url(/fonts/bigblueterm.woff2)format('woff2'),url(/fonts/BigBlueTermPlusNerdFont-Regular.ttf)format('truetype')}html{font-family:bitmage;font-size:19pt}.series-summary{border:4px solid #090;border-radius:4rem;padding:1rem}
+}@font-face{font-family:bitmage;src:url(/fonts/bigblueterm.woff2)format('woff2'),url(/fonts/BigBlueTermPlusNerdFont-Regular.ttf)format('truetype')}html{font-family:bitmage;font-size:14pt}.series-summary{border:4px solid #090;border-radius:4rem;padding:1rem}
