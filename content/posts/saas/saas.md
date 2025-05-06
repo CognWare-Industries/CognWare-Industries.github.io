@@ -1,5 +1,5 @@
 +++
-date = '2025-05-03T05:20:00+05:30'
+date = '2025-05-05T05:20:00+05:30'
 title = 'Serendipity as a Service'
 tags = ['saas','service','thought','play','unstructured','flow','essay','youtube','cognition','education','innovation','creativity','productivity','technology','business']
 series = ['SaaS']
