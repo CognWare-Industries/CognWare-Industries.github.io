@@ -15,13 +15,13 @@ pageRef = "posts"
 weight = 3
 
 [[main]]
-name = "Products"
-PageRef = "WIP"
+name = "Invest"
+PageRef = "invest"
 weight = 4
 
 [[main]]
-name = "Services"
-PageRef = "services"
+name = "Offerings"
+PageRef = "offerings"
 weight = 4
 
 [[footer]]
