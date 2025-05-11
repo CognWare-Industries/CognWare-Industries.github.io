@@ -16,13 +16,13 @@ title = "CognWare Industries"
 
 [params.author]
   name = "CognWare Industries"
-  email = "raj@thebitmage.com"
+  email = "raj@cognware.com"
   image = "img/cognware-rgbized.webp"
   imageQuality = 96
   headline = "Engineering Cognitive Infrastructure"
   bio = "(Bit-Mage)"
   links = [
-    { email = "mailto:raj@thebitmage.com" },
+    { email = "mailto:raj@cognware.com" },
     { link = "https://thebitmage.com/" },
  #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
  #  { apple = "https://www.apple.com" },
