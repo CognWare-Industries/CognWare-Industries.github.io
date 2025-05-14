@@ -3,7 +3,7 @@ date = '2025-05-05T05:20:00+05:30'
 title = 'Serendipity as a Service'
 tags = ['saas','service','thought','play','unstructured','flow','essay','youtube','cognition','education','innovation','creativity','productivity','technology','business']
 series = ['SaaS']
-series_order = "0x0"
+series_order = '0x0'
 featureimage = 'https://ik.imagekit.io/rajp152k/CognWare/output-tint.jpg?updatedAt=1746407304492'
 +++
 
