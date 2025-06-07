@@ -3,11 +3,11 @@ date = '2025-05-28T05:55:49+05:30'
 title = 'Overthinking'
 tags = ['overthinking', 'cognition', 'psychology', 'mental models', 'abstraction', 'unconventional improvement', 'reading', 'writing', 'journaling', 'logging', 'computer science', 'metaphor', 'workflow', 'productivity', 'philosophy', 'introspection', 'strategy']
 series = ['SaaS']
-series_order = '0x14'
+series_order = '0xE'
 featureimage = 'https://ik.imagekit.io/rajp152k/CognWare/thunder.jpg?updatedAt=1748392326284'
 +++
 
-# SaaS 0x14
+# SaaS 0xE
 
 {{<youtube aciR7TaW12c>}}
 

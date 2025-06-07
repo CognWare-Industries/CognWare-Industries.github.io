@@ -3,7 +3,7 @@ date = '2025-05-21T06:27:43+05:30'
 title = 'Practical Polymathy'
 tags = ['Polymathy', 'Education', 'Learning', 'Abstraction', 'Mindset', 'Strategy', 'Orchestration', 'Systems', 'Critique', 'Society', 'Philosophy', 'Unconventional', 'Thinking', 'Generalization', 'Specialization', 'Observation', 'Missions', 'Discovery', 'Iteration', 'Tools']
 series = ['SaaS']
-series_order  = '0x11'
+series_order  = '0xB'
 featureimage = 'https://ik.imagekit.io/rajp152k/CognWare/exploration.jpg?updatedAt=1747789335327'
 +++
 

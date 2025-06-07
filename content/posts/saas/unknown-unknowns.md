@@ -3,7 +3,7 @@ date = '2025-05-22T05:24:08+05:30'
 title = 'Unknown Unknowns'
 tags = ['Unknowns', 'Strategy', 'Planning', 'Risk', 'Uncertainty', 'Cognition', 'Infrastructure', 'Language', 'Analogies', 'Stories', 'Fiction', 'Movies', 'Music', 'Video', 'Games', 'Imagination', 'Exploration', 'Experience', 'Collaboration', 'Abstraction']
 series = ['SaaS']
-series_order  = '0x12'
+series_order  = '0xC'
 featureimage = 'https://ik.imagekit.io/rajp152k/CognWare/vader.jpg?updatedAt=1747873333621'
 +++
 

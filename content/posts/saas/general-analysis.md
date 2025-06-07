@@ -3,11 +3,11 @@ date = '2025-05-26T06:19:08+05:30'
 title = 'General Analysis'
 tags= ['Analysis','Problem','General','Solver','Framework','Abstraction','DSL','Axiom','State','Context','Dimension','Time','Scale','Parameter','Space','Symbolic','Tensoric','Calculus','Semiotic','Modeling']
 series = ['SaaS']
-series_order = "0x13"
+series_order = "0xD"
 featureimage = 'https://ik.imagekit.io/rajp152k/CognWare/state-space.jpg?updatedAt=1748193792768'
 +++
 
-## SaaS: 0x13
+## SaaS: 0xD
 
 {{<youtube Ah8odxMjZLg >}}
 

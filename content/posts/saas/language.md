@@ -3,12 +3,12 @@ date = '2025-05-20T06:21:11+05:30'
 title = 'Language'
 tags = ['Language', 'Communication', 'Thinking', 'Abstraction', 'Interface', 'Interpretation', 'Context', 'Metaphor', 'Writing', 'Reading', 'Philosophy', 'Cognitive', 'Internal', 'External', 'Improvement', 'Engineering', 'Rhetoric', 'Media', 'Signal', 'Noise']
 series = ['SaaS']
-series_order  = '0x10'
+series_order  = '0xA'
 featureimage = 'https://ik.imagekit.io/rajp152k/CognWare/cave-paint.jpg?updatedAt=1747712535199'
 +++
 
 
-## SaaS 0x10
+## SaaS 0xA
 
 {{< youtube L9RQYpgUpcg >}}
 
