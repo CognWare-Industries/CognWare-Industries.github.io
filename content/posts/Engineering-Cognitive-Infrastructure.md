@@ -15,4 +15,4 @@ We solve problems, document them, think rigorously, and ask the questions that r
 
 Our technological and cognitive evolution rates are symbiotic catalysts, and mutual bottlenecks.  
 
-[Epistemological cartography](https://github.com/CognWare-Industries/CartoGraph) across meta-domains is our explicit mission.   
+Epistemological cartography across meta-domains is our explicit mission.   
