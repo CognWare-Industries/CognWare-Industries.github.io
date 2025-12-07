@@ -329,13 +329,14 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 style="text-decoration-line: none !important;" href="#-0x24871765116562-" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h4>
-&lt;pre tabindex="0">&lt;code>- init personalized micro-blogging again
-- used to do this quite a while ago
-- separate streams for neo-philosophy and
-tech help maintain relevance for audience
-- books, cognition, misc thoughts go here
-- tech exploration @ the bit-mage
-&lt;/code>&lt;/pre>
+&lt;ul>
+&lt;li>init personalized micro-blogging again&lt;/li>
+&lt;li>used to do this quite a while ago&lt;/li>
+&lt;li>separate streams for neo-philosophy and
+tech help maintain relevance for audience&lt;/li>
+&lt;li>books, cognition, misc thoughts go here&lt;/li>
+&lt;li>tech exploration @ the bit-mage&lt;/li>
+&lt;/ul>
 &lt;h3 class="relative group">init
 &lt;div id="init" class="anchor">&lt;/div>
 &lt;span
@@ -352,6 +353,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 style="text-decoration-line: none !important;" href="#-0x24871765116329-" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h4>
-&lt;pre tabindex="0">&lt;code>- scrolls init : towards pseudo-enlightenment
-- regular logs init
-&lt;/code>&lt;/pre></description></item></channel></rss>
+&lt;ul>
+&lt;li>scrolls init : towards pseudo-enlightenment&lt;/li>
+&lt;li>regular logs init&lt;/li>
+&lt;/ul></description></item></channel></rss>
