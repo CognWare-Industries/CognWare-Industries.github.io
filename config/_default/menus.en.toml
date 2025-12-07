@@ -10,6 +10,11 @@ pageRef = "About"
 weight = 2
 
 [[main]]
+name = "Scroll"
+pageRef = "scroll"
+weight = 2
+
+[[main]]
 name = "Posts"
 pageRef = "posts"
 weight = 3
