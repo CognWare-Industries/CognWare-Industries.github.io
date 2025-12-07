@@ -312,4 +312,31 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
 style="text-decoration-line: none !important;" href="#serendipity-as-a-service" aria-label="Anchor">#&lt;/a>
 &lt;/span>
-&lt;/h2></description></item></channel></rss>
+&lt;/h2></description></item><item><title>Scroll</title><link>https://cognware.com/scroll/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>raj@cognware.com (CognWare Industries)</author><guid>https://cognware.com/scroll/</guid><description>&lt;h3 class="relative group">&lt;a href="#init">&lt;em>reverse chronological&lt;/em>&lt;/a>
+&lt;div id="reverse-chronological" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#reverse-chronological" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;hr>
+&lt;h3 class="relative group">init
+&lt;div id="init" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#init" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;h2 class="relative group">[ 0x2487|1765116329 ]
+&lt;div id="-0x24871765116329-" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#-0x24871765116329-" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;pre tabindex="0">&lt;code> - scrolls init : towards pseudo-enlightenment
+- regular logs init
+&lt;/code>&lt;/pre></description></item></channel></rss>
