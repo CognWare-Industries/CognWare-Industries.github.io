@@ -1,7 +1,6 @@
 +++
 title = 'Engineering Cognitive Infrastructure'
 date = '2025-05-01T09:13:28+05:30'
-tags = ["cognition","infrastructure","engineering"]
 +++
 
 UPDATE : [ 0x24A1|1767393947 ] :  this is a one-man-army kinda situation and I use "We" to sound dramatic (I don't possess any rings) : I'm just trying to have fun and battle boredom
