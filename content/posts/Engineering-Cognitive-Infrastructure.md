@@ -2,8 +2,11 @@
 title = 'Engineering Cognitive Infrastructure'
 date = '2025-05-01T09:13:28+05:30'
 tags = ["cognition","infrastructure","engineering"]
-featureimage = 'https://ik.imagekit.io/rajp152k/CognWare/hammer-anvil.jpg?updatedAt=1746332339940'
 +++
+
+UPDATE : [ 0x24A1|1767393947 ] :  this is a one-man-army kinda situation and I use "We" to sound dramatic (I don't possess any rings) : I'm just trying to have fun and battle boredom
+
+---
 
 CognWare Industries was established on May 1st, 2025: dedicated to engineering cognitive infrastructure - personal to planetary.  
 
@@ -16,3 +19,4 @@ We solve problems, document them, think rigorously, and ask the questions that r
 Our technological and cognitive evolution rates are symbiotic catalysts, and mutual bottlenecks.  
 
 Epistemological cartography across meta-domains is our explicit mission.   
+
