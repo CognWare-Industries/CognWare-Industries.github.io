@@ -21,8 +21,8 @@ disableImageOptimization = false
 disableTextInHeader = true
 backgroundImageWidth = 1200
 
-defaultBackgroundImage = "img/retrofractal_web_optimized.webp" # used as default for background images
-defaultFeaturedImage = "img/retrofractal_web_optimized.webp" # used as default for featured images in all articles
+#defaultBackgroundImage = "img/retrofractal_web_optimized.webp" # used as default for background images
+#defaultFeaturedImage = "img/retrofractal_web_optimized.webp" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
 smartTOC = true

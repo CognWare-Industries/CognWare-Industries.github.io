@@ -19,15 +19,15 @@ name = "Posts"
 pageRef = "posts"
 weight = 3
 
-[[main]]
-name = "Invest"
-PageRef = "invest"
-weight = 4
+#[[main]]
+#name = "Invest"
+#PageRef = "invest"
+#weight = 4
 
-[[main]]
-name = "Offerings"
-PageRef = "offerings"
-weight = 4
+#[[main]]
+#name = "Offerings"
+#PageRef = "offerings"
+#weight = 4
 
 [[footer]]
 name = "Github"
